@@ -41,6 +41,7 @@ Bu projede restoranlar için kapsamlı bir web uygulaması geliştirdim. ASP.NET
   
 ## Ekran Görüntüleri
 
+![Ekran görüntüsü 2025-04-16 135507](https://github.com/user-attachments/assets/22335abe-c4d1-49f8-9c45-25a6066e1c0e)
 ![Ekran görüntüsü 2025-04-16 135610](https://github.com/user-attachments/assets/52943132-0b73-435f-95c0-c3b0640f0d0c)
 ![Ekran görüntüsü 2025-04-16 135605](https://github.com/user-attachments/assets/51b4959b-74fb-4f0f-b2ff-ccd065374b92)
 ![Ekran görüntüsü 2025-04-16 135559](https://github.com/user-attachments/assets/67563ec9-f69a-42c2-a1ba-946ccc13b031)
@@ -48,7 +49,6 @@ Bu projede restoranlar için kapsamlı bir web uygulaması geliştirdim. ASP.NET
 ![Ekran görüntüsü 2025-04-16 135541](https://github.com/user-attachments/assets/cc421d67-3df5-4522-93cc-8ca98a5e2d61)
 ![Ekran görüntüsü 2025-04-16 135534](https://github.com/user-attachments/assets/20a889c7-c78e-43cc-b8e1-921de825953f)
 ![Ekran görüntüsü 2025-04-16 135524](https://github.com/user-attachments/assets/ec12d7e2-308d-4730-af6e-24bc3b0ae472)
-![Ekran görüntüsü 2025-04-16 135507](https://github.com/user-attachments/assets/22335abe-c4d1-49f8-9c45-25a6066e1c0e)
 ![Ekran görüntüsü 2025-04-16 135625](https://github.com/user-attachments/assets/eac21465-766a-4450-90df-c970e8c337b7)
 ![Ekran görüntüsü 2025-04-16 135616](https://github.com/user-attachments/assets/eae889ff-f7fe-476e-b5de-8b2da397b6e2)
 ![Ekran görüntüsü 2025-04-16 140029](https://github.com/user-attachments/assets/0eb156b5-3b90-4572-a8a3-9176455c45a7)
